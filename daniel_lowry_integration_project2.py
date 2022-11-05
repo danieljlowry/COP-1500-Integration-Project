@@ -191,9 +191,3 @@ printGreaterNumberCall()
 
 # 2. GeeksforGeeks. (2021, January 21). Python: Sep Parameter in print(). GeeksforGeeks.
 # Retrieved September 18, 2022, from https://www.geeksforgeeks.org/python-sep-parameter-print/
-
-
-# Submission Instructions:
-# 1. Submit .py file as before and...
-# 2. Create a GitHub repository for your program, upload your Main.py file through the browser, and submit a link to it
-# as a submission comment.
